@@ -47,4 +47,14 @@
 ## Bubble Chart
 
 - Used to add details to scatter plot or maps to show the relationship between three or more measures.
+- Varying the sie and color of circles creates visually compleeling charts that present larget amounts of data.
+
+
+## Treemap
+
+- Treemaps relate different segments of your data to the whole.
+
+
+## Box Chart
+
 - 
