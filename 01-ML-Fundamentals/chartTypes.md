@@ -1,5 +1,7 @@
 # Types of Charts and Graphs
 
+![Types](./ChartTypes.png)
+
 ## Bar Chart:
 
 - To quickly comapre data across categories
